@@ -1,0 +1,11 @@
+{
+    "version": "1.3.50",
+    "notes": "Feature: Global Sequence Mode\n\n- Fixed duplicate IDs when using simple {seq} formulas across multiple subjects.\n- {seq} now produces a continuous unique sequence (001, 002...) regardless of grouping.",
+    "pub_date": "2026-01-16T06:00:00Z",
+    "platforms": {
+        "windows-x86_64": {
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTQkU2ZjZIOStFeE5jZlpOWHFxZmFHUHdSRUE0aDMzUDRaV1N2RkhudHdlVkVLT081VHZOUmwwV01MVnVicjlJQXRPakJMWlVNZVp3MkUyWVFQV1RvQnY2c2dSeFdRR3dZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY4NTQ0NzA2CWZpbGU6VW5pcXVlIElEIEdlbmVyYXRvcl8xLjMuNTBfeDY0LXNldHVwLmV4ZQpzd2dhZ1VCc1JXd1NlVGxmVGNZdmVvS3FLZTZsN2tqOEJPZmJBTG1ERmpCYUlvVFZmcjRqWEFFNENmTVo3eGVMeWh0NDkxaUorSktsSE9zM3pLRzVBdz09Cg==",
+            "url": "https://github.com/nee00ooo/uidgen/releases/download/v1.3.50/Unique.ID.Generator_1.3.50_x64-setup.exe"
+        }
+    }
+}
